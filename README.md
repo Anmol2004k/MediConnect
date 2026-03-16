@@ -9,7 +9,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.1.12-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-> 🚀 **Live Application**: [asiri-healthcare-clinic-management-system.vercel.app](https://asiri-healthcare-clinic-management-system.vercel.app)
+<!-- > 🚀 **Live Application**: [asiri-healthcare-clinic-management-system.vercel.app](https://asiri-healthcare-clinic-management-system.vercel.app) -->
 
 A modern, secure, and feature-rich clinic management system built with React 19, Firebase, and Tailwind CSS. Streamline your healthcare operations with comprehensive patient management, appointment scheduling, prescription management, billing systems, and role-based access control.
 
@@ -81,7 +81,7 @@ Our clinic management system is built with cutting-edge technologies to ensure p
 
 ## 🌟 Live Demo
 
-Experience the application live at: **[asiri-healthcare-clinic-management-system.vercel.app](https://asiri-healthcare-clinic-management-system.vercel.app)**
+<!-- Experience the application live at: **[asiri-healthcare-clinic-management-system.vercel.app](https://asiri-healthcare-clinic-management-system.vercel.app)** -->
 
 ### 🧪 Test Accounts
 - **Doctor**: Create a new account with Doctor role
@@ -116,7 +116,7 @@ Here's a comprehensive preview of all the key features and interfaces in the Asi
 
 ### 1. Clone and Install
 ```bash
-git clone https://github.com/thakshaka/clinic-management-system.git
+git clone  https://github.com/Anmol2004k/MediConnect.git.
 cd clinic-management-system
 npm install
 ```
@@ -257,7 +257,7 @@ src/
 ## 🌐 Deployment
 
 This application is deployed on **Vercel** and is live at:
-**[asiri-healthcare-clinic-management-system.vercel.app](https://asiri-healthcare-clinic-management-system.vercel.app)**
+<!-- **[asiri-healthcare-clinic-management-system.vercel.app](https://asiri-healthcare-clinic-management-system.vercel.app)** -->
 
 
 ## 🔒 Security Features
@@ -343,8 +343,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👨‍💻 Author
 
 **Thakshaka Rathnayake**
-- GitHub: [@thakshaka](https://github.com/thakshaka)
-- Live Demo: [asiri-healthcare-clinic-management-system.vercel.app](https://asiri-healthcare-clinic-management-system.vercel.app)
+- GitHub: [@](https://github.com/Anmol2004k)
+<!-- - Live Demo: [asiri-healthcare-clinic-management-system.vercel.app](https://asiri-healthcare-clinic-management-system.vercel.app) -->
 
 ## 🙏 Acknowledgments
 
@@ -368,8 +368,14 @@ If you have any questions or need help:
 
 **⭐ Star this repository if it helped you! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/thakshaka/clinic-management-system?style=social)](https://github.com/thakshaka/clinic-management-system)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/thakshaka/clinic-management-system?style=social)](https://github.com/thakshaka/clinic-management-system)
 [![GitHub forks](https://img.shields.io/github/forks/thakshaka/clinic-management-system?style=social)](https://github.com/thakshaka/clinic-management-system)
-[![GitHub issues](https://img.shields.io/github/issues/thakshaka/clinic-management-system)](https://github.com/thakshaka/clinic-management-system/issues)
+[![GitHub issues](https://img.shields.io/github/issues/thakshaka/clinic-management-system)](https://github.com/thakshaka/clinic-management-system/issues) -->
+
+[![GitHub stars](https://img.shields.io)](https://github.com)
+[![GitHub forks](https://img.shields.io)](https://github.com)
+[![GitHub issues](https://img.shields.io)](https://github.com/issues)
+[![GitHub license](https://img.shields.io)](https://github.com)
+
 
 </div>
