@@ -379,3 +379,6 @@ If you have any questions or need help:
 
 
 </div>
+
+confusion in setup DB 
+need to learn DB setup 
